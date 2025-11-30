@@ -1,0 +1,43 @@
+commit 98b78cf4ab477d8a212567b55648540d8d896b51
+Merge: 8c3453e 7ac2b3a
+Author: Valentín_Alonso <9507595@alumnos.ufv.es>
+Date:   Sun Nov 30 16:21:25 2025 +0100
+
+    Solved merge conflicts on README file
+
+commit 8c3453e6e2581f4ab7e5056d3167c04b6c8895e3
+Author: Valentín_Alonso <9507595@alumnos.ufv.es>
+Date:   Sun Nov 30 16:09:42 2025 +0100
+
+    Adding some changes to the repo
+
+commit 770c5b5bd926e73025189b72d7cc7039b788fd26
+Author: Valentín_Alonso <9507595@alumnos.ufv.es>
+Date:   Sun Nov 30 15:53:54 2025 +0100
+
+    Adding some changes to the repo
+
+commit 7ac2b3a412c71796fb1935d0b6f9c202f59c8045
+Merge: 457a1aa 4c34f20
+Author: Pablo Martínez <pamarcha07@gmail.com>
+Date:   Sun Nov 30 14:14:19 2025 +0100
+
+    Merge branch 'dev' of https://github.com/pablo-martinez-chaves/activity_2 into dev
+
+commit 457a1aaa10806bb6bf5845f01acf9e912280c7aa
+Author: Pablo Martínez <pamarcha07@gmail.com>
+Date:   Sun Nov 30 14:11:48 2025 +0100
+
+    Adding contributors file to the repo
+
+commit 4c34f20b0c3e05e8bb6f68351955508bdc5619cd
+Author: Valentín_Alonso <9507595@alumnos.ufv.es>
+Date:   Sun Nov 30 14:04:20 2025 +0100
+
+    Adding some changes to the repo
+
+commit 989910fd5dcac54780c4cfe703b2d7795bc949ef
+Author: Pablo Martínez <pamarcha07@gmail.com>
+Date:   Sun Nov 30 13:02:01 2025 +0100
+
+    Adding some changes to the Readme file

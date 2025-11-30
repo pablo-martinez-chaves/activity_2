@@ -8,7 +8,7 @@ int main() {
     printf("Enter your name: ");
     scanf("%49s", name);
 
-    // Ask for the user's age.
+    // Ask for the user's age
     printf("Enter your age: ");
     scanf("%d", &age);
 
